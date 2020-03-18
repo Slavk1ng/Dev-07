@@ -177,14 +177,3 @@ body {
   display: circle;
 }
 
-
-/* Style page content */
-
-/* Changes the style of navbar for smaller screens */
-@media screen and (max-height: 400px) {
-  .navbar {
-    padding-top: 10px;
-  }
-  .navbar a {
-    font-size: 20px;
-  }
